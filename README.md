@@ -8,8 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
+<img src="profilepage.png" alt="project-screenshot" width="400" height="400/">
+
 <img src="undefined.png" alt="project-screenshot" width="400" height="400/">
 
+<img src="notfound.png" alt="project-screenshot" width="400" height="400/">
   
   
 <h2>💻 Built with</h2>
