@@ -12,7 +12,7 @@
 
 <img src="undefined.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="notfound.png" alt="project-screenshot" width="400" height="400/">
+<img src="notfound.png" alt="project-screenshot/">
   
   
 <h2>💻 Built with</h2>
