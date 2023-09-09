@@ -8,9 +8,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="profilepage.png" alt="project-screenshot" width="400" height="400/">
+<img src="profilepage.png" alt="project-screenshot/">
 
-<img src="undefined.png" alt="project-screenshot" width="400" height="400/">
+<img src="undefined.png" alt="project-screenshot/">
 
 <img src="notfound.png" alt="project-screenshot/">
   
